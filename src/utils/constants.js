@@ -1,0 +1,5 @@
+MESSAGE_FOR_SIGN = "COINFLIP on INVOKERS"
+
+module.exports = {
+    MESSAGE_FOR_SIGN
+}
